@@ -10,6 +10,7 @@ Ce bloc se concentre sur l'application de différentes techniques de **modélisa
 
 - **Objectif :** Prédire les ventes hebdomadaires en fonction de divers facteurs (promotions, événements, jours fériés…)
 - **Type de problème :** Régression
+- **Notebook :**projet_Walmart.ipynb
 - **Méthodes :**
   - Régression linéaire, Ridge, Lasso
   - Random Forest
@@ -22,6 +23,7 @@ Ce bloc se concentre sur l'application de différentes techniques de **modélisa
 Ce projet de data science a pour objectif de **prédire si un utilisateur convertira** (achètera un produit) après avoir cliqué sur une publicité.
 Les données utilisées comprennent des informations utilisateur (âge, source, pays...) et des données de campagne.
 - **Type de problème :** Classification binaire
+- **Notebook : **conversin_rate.ipynb
 - **Méthodes :**
   - Régression logistique
   - Arbre de décision, Random Forest, XGBoost
@@ -31,6 +33,7 @@ Les données utilisées comprennent des informations utilisateur (âge, source, 
 
 - **Objectif :** Identifier des comportements ou clusters à partir de données de trajets Uber
 - **Type de problème :** Clustering non supervisé
+- **Notebook :**UBER.ipynb
 - **Méthodes :**
   - K-Means
   - PCA (réduction de dimension)
