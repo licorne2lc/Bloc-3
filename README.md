@@ -1,4 +1,4 @@
-# Bloc 3 – Modélisation et Machine Learning 🤖
+# Bloc 3 – Modélisation et Machine Learning 
 
 Ce bloc se concentre sur l'application de différentes techniques de **modélisation en machine learning**, à travers trois projets concrets, couvrant à la fois l'apprentissage **supervisé** et **non supervisé**.
 
