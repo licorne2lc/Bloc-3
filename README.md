@@ -54,7 +54,7 @@ bloc3_modelisation/
 
 ---
 
-## 🚀 Instructions
+##  Instructions
 
 > Pour chaque projet, se rendre dans le dossier correspondant et exécuter les notebooks (`.ipynb`) associés.
 
