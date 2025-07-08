@@ -36,7 +36,7 @@ Les données utilisées comprennent des informations utilisateur (âge, source, 
 - **Notebook :**UBER.ipynb
 - **Méthodes :**
   - K-Means
-  - PCA (réduction de dimension)
+  - DBSCAN
   - Visualisation et analyse exploratoire des clusters
 
 ---
