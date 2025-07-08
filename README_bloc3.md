@@ -20,7 +20,7 @@ Ce bloc se concentre sur l'application de différentes techniques de **modélisa
 - ## Description du projet
 
 Ce projet de data science a pour objectif de **prédire si un utilisateur convertira** (achètera un produit) après avoir cliqué sur une publicité.
-Les données utilisées sont issues de la plateforme d'apprentissage [Analytics Vidhya](https://datahack.analyticsvidhya.com/) et comprennent des informations utilisateur (âge, source, pays...) et des données de campagne.
+Les données utilisées comprennent des informations utilisateur (âge, source, pays...) et des données de campagne.
 - **Type de problème :** Classification binaire
 - **Méthodes :**
   - Régression logistique
