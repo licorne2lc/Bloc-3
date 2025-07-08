@@ -4,9 +4,9 @@ Ce bloc se concentre sur l'application de différentes techniques de **modélisa
 
 ---
 
-## 📘 Contenu du bloc
+##  Contenu du bloc
 
-### 1. 📦 Apprentissage supervisé – Prédiction des ventes (projet Walmart)
+### 1.  Apprentissage supervisé – Prédiction des ventes (projet Walmart)
 
 - **Objectif :** Prédire les ventes hebdomadaires en fonction de divers facteurs (promotions, événements, jours fériés…)
 - **Type de problème :** Régression
@@ -15,16 +15,19 @@ Ce bloc se concentre sur l'application de différentes techniques de **modélisa
   - Random Forest
   - Cross-validation et tuning des hyperparamètres
 
-### 2. 🎯 Apprentissage supervisé – Conversion Rate Prediction
+### 2.  Apprentissage supervisé – Conversion Rate Prediction
 
-- **Objectif :** Prédire si un utilisateur cliquera ou non sur une publicité (conversion)
+- ## Description du projet
+
+Ce projet de data science a pour objectif de **prédire si un utilisateur convertira** (achètera un produit) après avoir cliqué sur une publicité.
+Les données utilisées sont issues de la plateforme d'apprentissage [Analytics Vidhya](https://datahack.analyticsvidhya.com/) et comprennent des informations utilisateur (âge, source, pays...) et des données de campagne.
 - **Type de problème :** Classification binaire
 - **Méthodes :**
   - Régression logistique
   - Arbre de décision, Random Forest, XGBoost
   - Analyse des métriques : précision, rappel, F1-score, AUC
 
-### 3. 🚕 Apprentissage non supervisé – Analyse de trajets Uber
+### 3.  Apprentissage non supervisé – Analyse de trajets Uber
 
 - **Objectif :** Identifier des comportements ou clusters à partir de données de trajets Uber
 - **Type de problème :** Clustering non supervisé
@@ -35,7 +38,7 @@ Ce bloc se concentre sur l'application de différentes techniques de **modélisa
 
 ---
 
-## 📁 Structure indicative
+##  Structure indicative
 
 ```bash
 bloc3_modelisation/
